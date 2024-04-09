@@ -1,6 +1,6 @@
 # Get A Waifu
 
-Made using vue-ts and vite. The waifu images are from the [Waifu API]('https://www.waifu.im').
+Made using vue-ts and vite. The waifu images are from the [Waifu API](https://www.waifu.im).
 
 ## Commands
 
